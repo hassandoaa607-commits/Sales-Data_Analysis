@@ -1,5 +1,5 @@
 # Interactive Sales Performance Dashboard (Excel)
-
+![Sales Dashboard](dashboard.png.png)
 ## Project Overview
 This project involves a comprehensive analysis of sales data to monitor business performance. I built an interactive dashboard using **Advanced Excel** to transform raw data into actionable business insights.
 
